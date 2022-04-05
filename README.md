@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Lars B. Rollik's GitHub stats](https://github-readme-stats.vercel.app/api?username=larsrollik)](https://github.com/larsrollik/github-readme-stats)
+<!-- See for details: https://github.com/anuraghazra/github-readme-stats -->
+<!-- "Ranks": "Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)" -->
 
 <!--
 **larsrollik/larsrollik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
