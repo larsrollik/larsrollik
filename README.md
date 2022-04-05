@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Lars B. Rollik's GitHub stats](https://github-readme-stats.vercel.app/api?username=larsrollik)](https://github.com/larsrollik/github-readme-stats)
+
 <!--
 **larsrollik/larsrollik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
