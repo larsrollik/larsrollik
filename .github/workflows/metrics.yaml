@@ -14,8 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: larsrollik
           template: classic
           filename: metrics-base.svg
