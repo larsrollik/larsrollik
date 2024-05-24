@@ -1,24 +1,5 @@
-### Hi there 👋
+### 👋
 
-[![Lars B. Rollik's GitHub stats](https://github-readme-stats.vercel.app/api?username=larsrollik&count_private=trueshow_icons=true&theme=dracula)](https://github.com/larsrollik/github-readme-stats)
+[stats][metrics-base.svg]
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larsrollik&langs_count=8&count_private=trueshow_icons=true&theme=dracula)](https://github.com/larsrollik/github-readme-stats) -->
-
-<!-- See for details: https://github.com/anuraghazra/github-readme-stats -->
-<!-- "Ranks": "Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone)" -->
-
-<!--
-**larsrollik/larsrollik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there, I'm a neuroscientist tinkering with analytical and hardware tools to propel my research forward.
