@@ -14,7 +14,7 @@ on:
 
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
     steps:
       # Step 1: Set up cache
       - name: Cache metrics dependencies
